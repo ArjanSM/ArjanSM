@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arjan
+- 👋 Hi, I’m @ArjanSM
 - 👀 I’m interested in anything related to Android and GraphQL 
 - 🌱 I’m currently learning GraphQL
 
